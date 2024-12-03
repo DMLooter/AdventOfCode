@@ -10,7 +10,7 @@ namespace _2024
 	{
 		public static int Part1()
 		{
-			string[] lines = File.ReadAllLines("C:\\Users\\Michael\\AdventOfCode\\2024\\Day1.txt");
+			string[] lines = File.ReadAllLines("C:\\Users\\Michael\\AdventOfCode\\2024\\Input\\Day1.txt");
 			int[] leftList = new int[lines.Length];
 			int[] rightList = new int[lines.Length];
 
@@ -35,7 +35,7 @@ namespace _2024
 
 		public static int Part2()
 		{
-			string[] lines = File.ReadAllLines("C:\\Users\\Michael\\AdventOfCode\\2024\\Day1.txt");
+			string[] lines = File.ReadAllLines("C:\\Users\\Michael\\AdventOfCode\\2024\\Input\\Day1.txt");
 			int[] leftList = new int[lines.Length];
 			int[] rightList = new int[lines.Length];
 
